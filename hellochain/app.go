@@ -6,7 +6,7 @@ import (
 	dbm "github.com/tendermint/tendermint/libs/db"
 	"github.com/tendermint/tendermint/libs/log"
 
-	"github.com/cosmos/hellochain/starter"
+	"github.com/cosmos/sdk-tutorials/utils/starter"
 
 	//import greeter types
 	"github.com/cosmos/hellochain/x/greeter"
